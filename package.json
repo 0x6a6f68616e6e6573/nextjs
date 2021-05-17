@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "nextjs-by-0x6a6f",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,7 @@
     "next": "10.x",
     "react": "17.x",
     "react-dom": "17.x"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
